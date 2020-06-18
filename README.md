@@ -23,11 +23,11 @@ This is not a very welcoming community for people who do not want to do some sel
   5. [Configuring OpenCore](/OpenCore/config.md)
   6. [Installation](/installation/installation-process.md)
   7. [Post-Install](/post-install/)
-    * Audio
-    * Installing bootloader to hard drive
-    * Power Management
-    * Security/FileVault
-    * Etc.
+     * Audio
+     * Installing bootloader to hard drive
+     * Power Management
+     * Security/FileVault
+     * Etc.
 
 If you're ready, go to the next page.
 
